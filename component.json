@@ -10,5 +10,5 @@
         "dom-scroll-into-view": "1.x",
         "hoist-non-react-statics": "1.x"
     },
-    "version": "0.14.0"
+    "version": "0.14.1"
 }
